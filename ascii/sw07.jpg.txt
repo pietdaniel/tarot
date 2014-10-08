@@ -1,0 +1,67 @@
+1
+t                                                                         t
+t                               tttttttttttt:                             t
+t                                 t ;  t t                                t
+t                                 ;ft; ttt;;                              t
+t                                                                          
+t                                                                         t
+t                                                                         t
+t                                                                         t
+t                                                                         t
+t                                                                         t
+.                                                                         t
+:                                                                         t
+8                                                                         t
+@                                     :L LC81:             i              t
+t                                   .:Ci:  ,..t          ;t ;             t
+t                        ::          ti       .  .:i ..1.  f              t
+t                       1. .      18@@i:L@@10Li  i: ,L..  t               t
+t                       t;L.     .t@@@L0@@@@@@@0:..;1 . 1,:t:             t
+t                      ;  :::    1f@GGCL0Gf ,G@@ .1; ,t: tt.: .           t
+t                 t.;i; .:i: .;:i C@G88Gt8.;8:0t:i:L:C,t  ,i  1; ;.       t
+t                 :;ti: :,;ti1i .;;fffi,    .;t1,Cttf;t,.fi 1i,f:;        t
+t                    i   :.;L.  i:..t.    ;tt0.1:Ci; ;tf  i   ,;          t
+t                    t;,f .:ii1.ift1.   .Ci.;;.,;:f; 1:t.; ;;1,.i: .      t
+t                   t.1 ; ,i ;.t t:t    .tC;i i :, ,i,t;, ,1 t L  t       t
+t                   i1 , ,i,i:,  ;.;;i,,1:i.:,C;if11,.fft,..ii:i i.       t
+t                  i i,.,i,.1,   ,i,;tLi1,1,1;i,1i.,; t, ;     t  1       t
+t                  ii 1,i1,;   ,;LLt1i;,;:1;i.L .1,:i t ,i     t  t       t
+t                 , ,i:,i,tt   ,GtLi;i, 1,i,i.:;,1    i  t,,;;;;;;;;  ;   t
+t                .i, ;,1 t,i    .1;i,1,.;., .1:L  .   t  ,t;;;,       L   t
+t                ,, i t,1it    ,i,,i,    .i i, i  ,   LttLttttt    t      t
+t               ,,i; t,t i;i.,ii:::i , ,;;1.   t. Ltti.  i  ,;,;; 1       t
+t               ;t; i;, ,Gt1ii i;i , ;,i      t.     t; ,L        t       t
+t              i.t,;t1.:1tG;1t1i  . ;f,     .,i      ,LL,; .      t       t
+t              ii,1Li 1L0;1tCL,i 1itL;       t        tt          t       t
+t             i;,;LCC;0t.;;t,LC;CCi,        ;1.       tt          t       t
+t           ,i0tt:,L@1ttt;;,LiGCi     ,:LL1           tt       i  t       t
+t           t0L;00tLi0iit,.    Lf.0:f;. ;.i           tt       i  t       t
+t           i;iL@,;;,tLCt1 ,i1L8Lf     tt f           tt       t  t  t    t
+t          ;t,,tt1,;tti1    : .        i  @         t;tt    .  t  ;  fC   t
+t        .;1t.1,ftit,iLLt1t:,  ;f,    i , 8           tt     i;t     0@f;1t
+t        1if1iitttitfCLL:,  .ii      ,1 :t,          ttt    i: t     f:, ,t
+t       ,t;ti@fG: 08,    f:   ,i       ; t.t      ..f .i..1f81it; :1      1
+t         .11    ,L        t    ;        1 L      1Lt ttiGL:,G8tt.        ;
+t     ;   C1     t        ,0t    :t,  t    i; .  t L :t1 i G@L;tt i ,,, .  
+t    t. i ii;ii .t.i  ,0@@@@@1.   :;...t    1;i .i:iCLt. ,,C0i;tt.:.,  t,1i
+t.,LiG:     .1 GC    G,;;fft@@@1      iii1L11t,,if;. Gt: .i tCCtt 11;ti@C8t
+;..8Gif.;,t. ,LC     t  . t,ti.iCiiiiiii: :LCi.1Lt1 i@t t;i.t;i1t. ttGtLG1:
+t,.@@@@@LGC@,.G     t: ,;Ctf@Gf;:Ci.        i@@tC  .@@t ;.t;1:Lttt@CCCL1iLt
+i,: :,,,ttt tC     .1.:1tti,, iftCttCGi.   i@@@@ ..CG@t t;;t;;tttt008L0Lt8f
+t          iG@@iif@@f..,;t:i1tttt8LLLLLG@@@@88: :fLGL0; 10Ltttittt    t@. t
+t          tLC8@@LCL .. .ift@ftitti1iLLLLL88@.   :L1t1  tLtC;L.tttC:L;88Ct8
+ftCttttt;;;1  :t80: .,,Cf.,                  :i     LC.tt;tGtt.ttt 1:t@@G:i
+t  :1::111;..t;ttt0Cttfttf,,.:f;   .,...     . 1.    ;1 tCt11ti1tt;C;@8@8C8
+t       ;;. ;f ,.t:11         :11Ctt:tt88tti;tf;C   t ;ttCGfG:.ttt :G@@@@G8
+Gt :.;i8L    .CCttCtt;;ttCttttttttttttttttttttttG  .CtCCC88CtttCCCtCLL1L1Lt
+C111C:    .t:11111111111111111111111   1      .G:  .                      :
+t  ;:   ;.                                    :111                        t
+t   111                                                              ;;t  t
+t                                                                  :CGffC;G
+t                                                                    C888@C
+t                                                                    t.;  t
+t                                                                    :    t
+t                                                                         t
+t                                                                         t
+t@tCt;ttt;;:;; ;  ;;;ttttttttttttttttt@@tt@@@C@C@CtCCttttttttttttttt@@@Ctt;
+ 

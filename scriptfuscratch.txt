@@ -1,0 +1,39 @@
+(define image (car (file-jpeg-load 1 "C:\\Users\\Fred Flinstone\\tarot\\images\\11.jpg" "C:\\Users\\Fred Flinstone\\tarot\\images\\11.jpg")))
+(define drawable (car (gimp-image-get-active-drawable image)))
+(define filename (car (gimp-image-get-filename image)))
+(car (gimp-image-get-filename image))
+(gimp-image-scale image 150 261)
+(gimp-hue-saturation drawable 0 0 0 -100)
+(gimp-brightness-contrast drawable 60 127)
+(file-jpeg-save 1 image drawable filename filename 1 1 1 1 "love" 1 1 0 0)
+
+
+
+(define image (car (file-jpeg-load 1 "C:\\Users\\Fred Flinstone\\tarot\\images\\11.jpg" "C:\\Users\\Fred Flinstone\\tarot\\images\\11.jpg")))
+(define drawable (car (gimp-image-get-active-drawable image)))
+(define filename (car (gimp-image-get-filename image)))
+(car (gimp-image-get-filename image))
+(gimp-image-scale image 150 261)
+(gimp-hue-saturation drawable 0 0 0 -100)
+(gimp-brightness-contrast drawable 60 127)
+(file-jpeg-save 1 image drawable filename filename 1 1 1 1 "love" 1 1 0 0)
+
+
+
+(define (empty? list) (= 0 (length list)))
+
+(define pwd "C:\\Users\\Fred Flinstone\\tarot\\images\\")
+
+(define dir-images (map (lambda x (string-append pwd (car x))) images))
+
+(map (lambda x x) dir-images)
+
+(define (manipulation filename)
+  (define image (car (file-jpeg-load 1 filename filename)))
+  (define drawable (car (gimp-image-get-active-drawable image)))
+  (gimp-image-scale image 150 261)
+  (gimp-hue-saturation drawable 0 0 0 -100)
+  (gimp-brightness-contrast drawable 60 127)
+  (file-jpeg-save 1 image drawable filename filename 1 1 1 1 "love" 1 1 0 0))
+
+(map (lambda x (manipulation (car x))) dir-images)

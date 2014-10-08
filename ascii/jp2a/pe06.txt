@@ -1,0 +1,77 @@
+c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,. ,.,,,,,,,,,cl..,,,,,,,,,,,,,,,..,,,,.   .  .       
+,                                       'l. lo,K'                                        
+,                                        .llO.:Ml..                                      
+,                                         ... .....                          ...         
+,    .,,'......',.                     .,......,'',                    .,,'..:l,...'     
+.   ll.    '.    .,.                 ...    ..    ;l'                 ,l'    ,l.   .l'   
+' .o,.....:cc.  . .d,               ,,  ...:ko'.....c,               lc...  '',:. .. ,,  
+. ,:  ,lldl'.l:,;  .:               ,  .:l:l..:.::.  l.             ,x  ;:. ,  .l;,.  :. 
+' ,,    ',.'',c.    ,               ,    .c'..,.     l,             ':    .l:...c,    o, 
+. .l   .l.. ..,,   ;:               ,    ;,'''.;.   .x.             .l.   :x....:l   .:  
+   :x. ;.     .,. ,;                ':  'l.    ..  .l.               .,   ,;    .;' .:.  
+,   ..'        .,'.                  ..,'        ..'                   ....      .,::.   
+,       ........                        ,;,...,;..                        ,.....,;.      
+'                                                                                        
+                                                                                         
+        ........                                                          '.'...','      
+     .,..     .,.,                                                     'l,.  ..  .,,;.   
+   .;.    .:.    .:.                   lOOkd;                         ,:.   .ll.    .l.  
+  .,     .:.::.....d,                 .kKKkOMKOKd.,:.                ,:.:,..:,,c'.'. .c  
+  ,, .,;l,. .;l:l, .:                ..,KXO,OkkXKkxOl                x, ..';:  .,l.   kl 
+  ,,    :. .. ,'   .:              .:' .dKoc,OddOWMWc                l:   '.''.,:d'   o. 
+   .   ;. .....,.  l.              lKOXKNMkOllK;lkMK.                .:  .:..    ;:  :,  
+   .;' .       ...l.               .kMMKdxOdX:kx,:Odl.                .l;          .l.   
+     ,'...   ..',.                   'l,'.,dlc,lockWXd'                 ,'..........     
+        .. ....                         .. '.:lxdlOMd.:Oxl,.                  '          
+                                          .   ,loOKkodOdlcXNc...                         
+                                         .d,.:dOdlxdkXllxdk. ......        .             
+      .,......''                     ....,OXkOOkcokKKlcKko.       ..      ':':,          
+    ..'.   .   ..:.                 .,   .d,.,ll.. k,.Ok.          .,   ..:l:. ,         
+   ,;     ;.'     l.                .    ll' . . ..d:Xk            .l  ,l dxd:..         
+  ., .,..,:.:l'',. l,               .    d, ,..   doOk.         ..':c,., .::::           
+  l,  '.,,   ;:..  .l              ..   ,l  ;'.  ,OlO.         .';dkll:. .'.,,           
+  ,:   .,','',:'   ::             ..    :: .,'  'oNdk        . .':kko,,..'d:,,       .   
+   l;  ;..   ..,  .;             .,     ll  lk,.:dMkk          .,XNdd;::;.:;.,.....,x,   
+    ,''        .,''              '..   .Ol..,:'  ,d:k        .:,KK:'olc:dkc,'.    'c,.   
+      ..,,...;,,.              .xOKXO:..dl,,  ,l.dldl .     .kl,Kl::dl,:xdk       ....   
+                              .KXK:lkKx.dl . .,l.kld,.,     .l.,K;,,l;.Ol,k          '   
+                              :d,,,,.cMckl.,  ...kdd,,.    .oc ,Xl'dc.:d,'d       .  '.  
+                             ;d:;,,;.:Xlll,,..   kOO,l,    lkd.,d;,d:.ld.,d      ',. ..  
+                         .,'',''l,.::dMocl,c:..  odK,:'    :dokdOl.:'ddddc,    ..,c:..c..
+                         .x,.;. .::l,OX,:x,lx,.  lOMd..     ,kXddOk:,xkKMM:    .,'.,xk00,
+                      .....  ;l .:.;lOl .Ol:l,   kxOk .     dkl,l;...;lOOO,        ,l:.  
+                     ::::,  :do:kXdlKo  :MWklod:cOKXk ,     dkl,kl   .', .               
+           ..'. .    :dXKd.,. ., ,KMO.  :MKdOOOOOKMMl ,     ,Kl dl    .:.l..             
+         ..'  .,,': 'codo,..   .  :d    ,KKkddodoOMMd c.     cl.kl  ...,lo:.,.           
+        :,  ...,x.,l:::.      ..  ,l ,O..Ok.lkKx:kMMK.d.        .l,,,  l;    ''.         
+        c  :o,. .  dc ,.      'c, cKo,l 'NK,lkkl,oMMWlo'        .lc.   .lo,.   '         
+       lO.OK.     ,l. .       ,NMKNMk,l  xO,ldkl,,XMMOOO.       .x.    ,lld;:.           
+       .ddMd   ...'..          .;lOXk:x. lKdl,kl,:MMKOOd.       ,;..     ,:.,.           
+      .:d:,,...',cK:              ,::':..KXkl,kl.,Md  ,O,   ..   .',' ...':l::,'   ..'c  
+    ..,;...  .,,;dd;:  .          ,l,   ,Mkkl,kl :Ml   d;   ..     .d;::',.  .'' ;:dl,Ml'
+   ','.        kNkWKk,',          'l,   ,Mkkl,kl,OK'   o,   .,  .l::'.,'.',,..,oc..ol.Xkc
+ ...;.         .xldMOl ;'          l,   :Ml:l.dl,KM: . dx.   .  ,X:d.         .:k. Ol ,..
+.:.',.           doMXk,,''        .l,   cMo,l ,l,XK'.:.dK'  .,  o,              .,.dl    
+'..              ldXMKl;,..:,;l:;.OX,   lMl.; ,l,dx. ..dO'   ..:d  .              .:.   .
+''               'OOK: . .'',.:.''KMd   :MNdlldxlOXl.l,dO.   ,;k.;:.               ,;....
+:.                kK::, c:,'c,'.  .dWKloONW, ':ddOMc,d:dKo.  'kd'l.                 ,,, :
+.                 'OOl  .lOkkOk:.   .:l::.:,  .llkMOllkMXO,'.dMk:l,.                  ,.l
+                   ,,,:,'cdkdlc. .':::.':,'o   ,ckKkkkoOkokKOoKOcl.                     :
+                    dMKl lxld;,l'lk. lXlkXOOl::.,l;,ll.lx.,lllxk,.                       
+,..                 .NKO:,.l:. dXlkXONMd';Kk;. ..,;d.  ..ddlk:..                         
+,,'  ..              ckKc:,',,,.,'':::lo::kOddokOc:,   .,c'                              
+     ,,              .kl                   :l:kOkk;,,..lO'.                              
+     .:,            ..,K'                   ::..'kkdd  ':,.                              
+       . ..          , ',                   .:   .;:l  ,.d.                              
+        ..::.        .' ,.                   '   .:co  ,lc                               
+          ..,x,      .,','                   ..   ;kl  .l'                               
+             .:.     .:.:'                   .:   .dd  .O:                         .'.   
+              '.    .'',d                  ..'.  .kKd    '          ..'::.        .c:'   
+             .     .lkd;K,            .. ....     '.,.   .          .  ,;.       .:d.    
+                .cdkooddO'           .:,'..  ........    ..,.       ...,.        .cc...,,
+ .           . .ldOXKk:;.                                  .,,':,..  .'          .,:.   ,
+:KKc,,,lc,..:kc:,,'..                                          ...ok,.            ,,    ,
+,lll;,,xddl,..                                                    :d:;.           .'    ,
+                                                                  ,NOl ,..              ,
+                                                                   .,,.,,'  .....:,',   '
+                                              ..    ,llllllllllllllllllllllllllllOMKOl,.,
